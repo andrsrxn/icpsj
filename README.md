@@ -1,3 +1,5 @@
+<img src="./public/logos/symbol.svg" alt="Logo ICPSJ" width="80" />
+
 # Iglesia de Cristo La Presencia del Señor Jesús (ICPSJ)
 
 Demo Website (Blog) for showcase the different sections and functionalities.
