@@ -1,0 +1,21 @@
+# Iglesia de Cristo La Presencia del Señor Jesús (ICPSJ)
+
+Demo Website (Blog) for showcase the different sections and functionalities.
+
+## Features
+
+- Information about the church.
+- Events.
+- Schedules.
+- Locations.
+- Contact and donation information.
+- Blog posts.
+- English and Spanish version.
+
+## Tech Stack
+
+- Astro 5 with content collections
+- Tailwind CSS 4
+- TypeScript 5
+- Node.js 24
+- Vercel
