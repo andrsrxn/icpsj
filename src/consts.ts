@@ -73,6 +73,12 @@ export const IMAGES_PATHS = {
 }
 
 export const IMAGES = {
+  WEB_SIGNATURE: {
+    PNG: {
+      URL: 'https://res.cloudinary.com/dq5nfyajn/image/upload/v1773879031/signature_ipnqxp.webp',
+      ALT: ''
+    }
+  },
   LOGOS: {
     LOGO: IMAGES_PATHS.LOGOS + '/logo.svg',
     LOGO_INVERTED: IMAGES_PATHS.LOGOS + '/logo-inverted.svg',

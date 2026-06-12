@@ -25,7 +25,7 @@ const translatePath = useTranslatedPath(lang)
 ---
 
 <DonationBanner />
-<footer {...props} class='bg-base-subtle py-28'>
+<footer {...props} class='bg-base-subtle pt-28'>
   <div class='container-grid'>
     <div class='mt-20 grid gap-x-16 gap-y-44 grid-cols-2 md:grid-cols-3 xl:grid-cols-4 lg:gap-x-52'>
       <div class='col-span-2 md:col-span-3 xl:col-span-1'>
@@ -115,4 +115,23 @@ const translatePath = useTranslatedPath(lang)
       </Text>
     </div>
   </div>
+   <div class='relative bg-blue-950 mt-44'>
+        <img
+          src={IMAGES.WEB_SIGNATURE.PNG.URL}
+          alt={IMAGES.WEB_SIGNATURE.PNG.ALT}
+          class='object-t h-9 w-full animate-pulse object-cover repeat-infinite'
+          decoding='async'
+          loading='lazy'
+        />
+        <p class='absolute top-1/2 left-0 h-auto w-full -translate-y-1/2 px-6 text-center text-sm leading-none font-light text-white tablet:text-sm'>
+          Desarrollado por{' '}
+          <a
+            class='font-medium underline decoration-1'
+            target='_blank'
+            rel='noopener noreferrer'
+            href='https://andrsrxn.com'>
+            andrsrxn.com
+          </a>
+        </p>
+      </div>
 </footer>
