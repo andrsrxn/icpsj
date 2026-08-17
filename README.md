@@ -4,6 +4,8 @@
 
 Demo Website (Blog) for showcase the different sections and functionalities.
 
+![Website banner](https://res.cloudinary.com/dq5nfyajn/image/upload/v1765561600/banner-small_mwmvb0.webp)
+
 ## Features
 
 - Information about the church.
